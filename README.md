@@ -8,12 +8,14 @@ The iBus Joystick project maps the iBus values to the corresponding joystick sig
 
 
 ## Libraries Required
-[ArduinoJoystickLibrary by Matthew Heironimus](https://github.com/MHeironimus/ArduinoJoystickLibrary)
+* [ArduinoJoystickLibrary by Matthew Heironimus](https://github.com/MHeironimus/ArduinoJoystickLibrary)
+* [FlySkyIBus by Tim Wilkinson](https://github.com/aanon4/FlySkyIBus)
+
 
 ## Instructions
 * Add ArduinoJoystickLibrary to your Arduino library directory
 * Open the iBusJoystick.ino and upload it to your Arduino.
-* Connect the Receivers +ve pin to any 5v(raw/vcc/5v)
+* Connect the Receivers +ve pin to any 5v(raw/vcc/5v), -ve to GND and iBus to Rx ports.
 * Connect the arduino to any supported devices.
 
 ## License
