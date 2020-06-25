@@ -7,7 +7,7 @@ The iBus Joystick project maps the iBus values to the corresponding joystick sig
  Refer [ArduinoJoystickLibrary support section ](https://github.com/MHeironimus/ArduinoJoystickLibrary/wiki/Supported-Boards)
 
 
-## Libraries Required
+## Prerequisites
 * [ArduinoJoystickLibrary by Matthew Heironimus](https://github.com/MHeironimus/ArduinoJoystickLibrary)
 * [FlySkyIBus by Tim Wilkinson](https://github.com/aanon4/FlySkyIBus)
 
